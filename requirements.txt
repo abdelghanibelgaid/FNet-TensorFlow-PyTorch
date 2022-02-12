@@ -1,0 +1,5 @@
+# Dependencies for TensorFlow Implementation 
+tensorflow>=2.6.2
+
+# Dependencies for PyTorch Implementation 
+torch>=1.9.1
